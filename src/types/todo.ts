@@ -5,9 +5,3 @@ export interface Todo {
   completed: boolean;
   createdAt: Date; 
 }
-
-export interface todostate {
-  todos: Todo[];
-  loading: boolean;
-  error: null | string; 
-}
