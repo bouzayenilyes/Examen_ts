@@ -1,4 +1,3 @@
-import React from 'react';
 import { TodoForm } from './components/TodoForm';
 import { TodoList } from './components/TodoList';
 import { TodoFilter } from './components/TodoFilter';
@@ -25,7 +24,7 @@ function App() {
             Taskalicious
           </h1>
           <p className="text-lg text-gray-600 dark:text-gray-400 font-medium">
-            Organize your tasks with drag and drop functionality
+            Organize your tasks with  Taskalicious Application with the capabilty of draging and droping functionality
           </p>
         </div>
 
