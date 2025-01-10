@@ -11,6 +11,12 @@ A modern task management app built with React.js, TypeScript, and Tailwind CSS.
 
 </div>
 
+## 📋 Use Case
+
+<div align="center">
+    <img src="./assets/usecase.svg" alt="Taskalicious Use Case Diagram" />
+</div>
+
 ## ✨ Features
 
 - 📝 Easy task creation with titles and descriptions
