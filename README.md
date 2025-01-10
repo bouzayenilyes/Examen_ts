@@ -9,6 +9,8 @@ A modern task management app built with React.js, TypeScript, and Tailwind CSS.
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
+<img src="./src/assets/screenshot.png" alt="Taskalicious Screenshot" />
+
 </div>
 
 ## 📋 Use Case
