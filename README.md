@@ -41,10 +41,10 @@ A modern task management app built with React.js, TypeScript, and Tailwind CSS.
 
 ```bash
 # Clone repository
-git clone https://github.com/bouzayenilyes/taskalicious.git
+git clone https://github.com/bouzayenilyes/examen_ts.git
 
 # Install dependencies
-cd taskalicious
+cd Examen_ts
 npm install
 
 # Start development server
