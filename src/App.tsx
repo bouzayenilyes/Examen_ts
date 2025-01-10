@@ -5,7 +5,7 @@ import { SearchBar } from './components/SearchBar';
 import { ThemeToggle } from './components/ThemeToggle';
 import { Statistics } from './components/Statistics';
 import { ShareButton } from './components/ShareButton';
-import { ClipboardList } from 'lucide-react';
+import { ClipboardList } from 'lucide-react'; 
 
 function App() {
   return (
